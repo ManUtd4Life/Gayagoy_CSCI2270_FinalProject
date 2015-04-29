@@ -1,3 +1,6 @@
+
+IMPORTANT: This is the old README and old Repository. I worked in team so all of our stuff are now stored on my group's expo, and here is the link. 
+https://github.com/tomgayag/Gayagoy_CSCI2270_FinalProject.git
 # Gayagoy_CSCI2270_FinalProject
 
 Project Summary:
