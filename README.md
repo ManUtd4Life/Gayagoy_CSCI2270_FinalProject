@@ -1,8 +1,9 @@
 
-IMPORTANT: This is the old README and old Repository. I worked in team so all of our stuff are now stored on my group's expo, and here is the link. 
+IMPORTANT BEFORE YOU PROCEED: This is the old README and old Repository. I worked in team so all of our stuff are now stored on my group's expo, and here is the link. 
 https://github.com/tomgayag/Gayagoy_CSCI2270_FinalProject.git
-# Gayagoy_CSCI2270_FinalProject
 
+# Gayagoy_CSCI2270_FinalProject
+STOP AND READ THE IMPORTANT NOTE ABOVE
 Project Summary:
 	This program is a text-based chord book interface simulator. It stores data on chord structures for a standard 6 string guitar. The program will come with a base file with a standard list of chords for use. The program should be executed with the base file of chords so that it has something o run with. The user can now look up chords from the chord list and the program will display it for the user. The user can also edit the chord list by adding and deleting chords at will from the main menu interface. Users can also transpose any chord they like up or down. This project should help organize chords for new or expert guitarists.
 
