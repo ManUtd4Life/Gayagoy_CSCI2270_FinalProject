@@ -124,24 +124,24 @@ int main(int argc, char *argv[])
 		}
         case 5:
         {
-			string number_transpose_up;
+			string number_move_up;
 			string chord;
 			cout << "Enter chord to move up" << endl;
 			getline(cin, chord);
 			cout << "Enter how many steps up" << endl;
-			getline(cin, number_transpose_up);
-			the_guitar->transpose_chord_up(chord, stoi(number_transpose_up));
+			getline(cin, number_move_up);
+			the_guitar->transpose_chord_up(chord, stoi(number_move_up));
 			break;
 		}
 		case 6:
 		{
-			string number_transpose_down;
+			string number_move_down;
 			string chord;
 			cout << "Enter chord to move down" << endl;
 			getline(cin, chord);
 			cout << "Enter how many steps down" << endl;
-			getline(cin, number_transpose_down);
-			the_guitar->transpose_chord_down(chord, stoi(number_transpose_down));
+			getline(cin, number_move_down);
+			the_guitar->transpose_chord_down(chord, stoi(number_move_down));
 			break;
 		}
 		case 7:
@@ -210,5 +210,3 @@ int main(int argc, char *argv[])
 
     return 0;
 }
-
-
